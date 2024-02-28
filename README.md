@@ -1,0 +1,1 @@
+The two data sets used for the model were "notumor" and "meningioma", the data sets i used were both over 1000 images in length. Github has a limit on the number of files being able to be uploaded to a repo', so the data size present in the repo' is not representative.
